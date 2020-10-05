@@ -1,0 +1,148 @@
+Uri: https://ganter112.github.io/
+File Name: c:\Downloaded Web Sites\ganter112.github.io\index.htm
+Content Type: text/html
+
+Uri: https://ganter112.github.io/img/core-img/favicon.ico
+File Name: c:\Downloaded Web Sites\ganter112.github.io\img\core-img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://ganter112.github.io/style.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\style.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/index.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\index.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/ldTFhyMXMPjODZf0HGsu.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\ldTFhyMXMPjODZf0HGsu.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/XjqDLUelQAp3dz5bdsnLwPSmg.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\XjqDLUelQAp3dz5bdsnLwPSmg.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/nhQjMT55pYGl1nmL0gzKYJ1eQtKFe.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\nhQjMT55pYGl1nmL0gzKYJ1eQtKFe.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/9ac70d7252a1a55181ad946f1b8e7372.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\9ac70d7252a1a55181ad946f1b8e7372.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/contact.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\contact.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/terms.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\terms.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/policy.html
+File Name: c:\Downloaded Web Sites\ganter112.github.io\policy.html
+Content Type: text/html
+
+Uri: https://ganter112.github.io/img/jenny-hill-mqvwb7kuooe-unsplash.jpg
+File Name: c:\Downloaded Web Sites\ganter112.github.io\img\jenny-hill-mqvwb7kuooe-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://ganter112.github.io/img/kristen-kaethler-vagl6ajkub4-unsplash.jpg
+File Name: c:\Downloaded Web Sites\ganter112.github.io\img\kristen-kaethler-vagl6ajkub4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://ganter112.github.io/img/alex-block-3ylnd_1fvlo-unsplash.jpg
+File Name: c:\Downloaded Web Sites\ganter112.github.io\img\alex-block-3ylnd_1fvlo-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://ganter112.github.io/img/clip.dn.ua-65224_35.jpg
+File Name: c:\Downloaded Web Sites\ganter112.github.io\img\clip.dn.ua-65224_35.jpg
+Content Type: image/jpeg
+
+Uri: https://ganter112.github.io/js/jquery/jquery-2.2.4.min.js
+File Name: c:\Downloaded Web Sites\ganter112.github.io\js\jquery\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://ganter112.github.io/js/bootstrap/popper.min.js
+File Name: c:\Downloaded Web Sites\ganter112.github.io\js\bootstrap\popper.min.js
+Content Type: application/javascript
+
+Uri: https://ganter112.github.io/js/bootstrap/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\ganter112.github.io\js\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ganter112.github.io/js/plugins/plugins.js
+File Name: c:\Downloaded Web Sites\ganter112.github.io\js\plugins\plugins.js
+Content Type: application/javascript
+
+Uri: https://ganter112.github.io/js/active.js
+File Name: c:\Downloaded Web Sites\ganter112.github.io\js\active.js
+Content Type: application/javascript
+
+Uri: https://ganter112.github.io/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/css/animate.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\css\animate.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/css/classy-nav.min.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\css\classy-nav.min.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/css/nice-select.min.css
+File Name: c:\Downloaded Web Sites\ganter112.github.io\css\nice-select.min.css
+Content Type: text/css
+
+Uri: https://ganter112.github.io/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ganter112.github.io/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ganter112.github.io/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ganter112.github.io/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://ganter112.github.io/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://ganter112.github.io/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ganter112.github.io/fonts/classy.eot?fftrrv
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\classy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ganter112.github.io/fonts/classy.ttf?fftrrv
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\classy.ttf
+Content Type: font/ttf
+
+Uri: https://ganter112.github.io/fonts/classy.woff?fftrrv
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\classy.woff
+Content Type: font/woff
+
+Uri: https://ganter112.github.io/fonts/classy.svg?fftrrv
+File Name: c:\Downloaded Web Sites\ganter112.github.io\fonts\classy.svg
+Content Type: image/svg+xml
+
